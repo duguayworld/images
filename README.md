@@ -1,4 +1,4 @@
-# My personal bank of all my designs.
+# My personal bank of designs.
 HTML CSS PYQT KIVY FLASK JAVASCRIPT JPG PNG VECTOR TO WEBAPP
 
 # Free TV Project
