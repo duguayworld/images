@@ -7,11 +7,11 @@ HTML CSS PYQT KIVY FLASK JAVASCRIPT JPG PNG VECTOR TO WEBAPP
 | ![Screenshot_2024-05-28_12-16-18](https://github.com/duguayworld/images/assets/153779837/cb761302-ff56-4ff0-bdb1-a27f5fcc1ef8) | ![Screenshot_2024-05-28_12-11-36](https://github.com/duguayworld/images/assets/153779837/b4f8c708-6ed0-4543-824c-5f9e3e04d030) |
 | **PYTHON** | **FLASK ** |
 | ![Screenshot_2024-05-28_12-12-47](https://github.com/duguayworld/images/assets/153779837/ce444e83-0300-4ba1-a69c-cda7acb3f72c) | ![Screenshot_2024-05-28_12-13-17](https://github.com/duguayworld/images/assets/153779837/4e9e242c-37c2-438f-8a63-1182e1ee6443) |
-
-
-|             |             |
-| ----------- | ----------- |
 | **DESKTOP** | **WALLPAPERS** |
 | ![archinstyle_paulgrey2-0](https://github.com/duguayworld/images/assets/153779837/f0d6e46c-0521-4769-981c-7fd8b553c943) | ![datacenter](https://github.com/duguayworld/images/assets/153779837/38145f3f-dc8f-467c-9138-8a4c4b2bdbda) |
 | ----------- | ----------- |
 | **ICONS** | **THEMING** |
+| ----------- | ----------- |
+|             |             |
+
+
