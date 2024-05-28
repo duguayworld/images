@@ -9,9 +9,13 @@ HTML CSS PYQT KIVY FLASK JAVASCRIPT JPG PNG VECTOR TO WEBAPP
 | ![Screenshot_2024-05-28_12-12-47](https://github.com/duguayworld/images/assets/153779837/ce444e83-0300-4ba1-a69c-cda7acb3f72c) | ![Screenshot_2024-05-28_12-13-17](https://github.com/duguayworld/images/assets/153779837/4e9e242c-37c2-438f-8a63-1182e1ee6443) |
 | **DESKTOP** | **WALLPAPERS** |
 | ![archinstyle_paulgrey2-0](https://github.com/duguayworld/images/assets/153779837/f0d6e46c-0521-4769-981c-7fd8b553c943) | ![datacenter](https://github.com/duguayworld/images/assets/153779837/38145f3f-dc8f-467c-9138-8a4c4b2bdbda) |
-| ----------- | ----------- |
 | **ICONS** | **THEMING** |
-| ----------- | ----------- |
+| ![icongrid4](https://github.com/duguayworld/images/assets/153779837/494c9106-6028-4059-b5a0-1f0b9c2cb89e) | ![icongrid3](https://github.com/duguayworld/images/assets/153779837/f9b511c1-75c9-4393-8f4e-989f844694f5) |
+| ![icongrid2](https://github.com/duguayworld/images/assets/153779837/2d468865-b1f2-4e1b-8b01-210b35805c76) | ![icongrid](https://github.com/duguayworld/images/assets/153779837/bf77b9d2-0d73-4eb2-81d4-c683a80207cf) |
+| ![modicons](https://github.com/duguayworld/images/assets/153779837/884def4d-7930-44ac-8cca-54d7db92c33e) | ![modicons2](https://github.com/duguayworld/images/assets/153779837/a7679be7-6f69-45c5-a329-a3df5db9044d) |
 |             |             |
+|             |             |
+|             |             |
+
 
 
