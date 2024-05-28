@@ -23,8 +23,6 @@ HTML CSS PYQT KIVY FLASK JAVASCRIPT JPG PNG VECTOR TO WEBAPP
 | ![icongrid2](https://github.com/duguayworld/images/assets/153779837/2d468865-b1f2-4e1b-8b01-210b35805c76) | ![icongrid](https://github.com/duguayworld/images/assets/153779837/bf77b9d2-0d73-4eb2-81d4-c683a80207cf) |
 | ![modicons](https://github.com/duguayworld/images/assets/153779837/884def4d-7930-44ac-8cca-54d7db92c33e) | ![modicons2](https://github.com/duguayworld/images/assets/153779837/a7679be7-6f69-45c5-a329-a3df5db9044d) |
 
-
-
 # Custom Designs
 
 ![DJTest](https://github.com/duguayworld/images/assets/153779837/95cef57a-d701-4aae-bd4a-eb9a1ef82dd3)
@@ -32,6 +30,8 @@ HTML CSS PYQT KIVY FLASK JAVASCRIPT JPG PNG VECTOR TO WEBAPP
 # Complete Website
 
 [![alt text](https://github.com/duguayworld/images/blob/main/video.png)](https://www.awesomescreenshot.com/video/28108445?key=6fbef7ed5db1244beb51bae6ae6e11e4)
+
+# Commercial Designs
 
 |           |           |
 |   :---:   |   :---:   |
